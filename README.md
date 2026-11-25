@@ -2,8 +2,8 @@
 **Assignment:** Make the Data of a Smart Manufacturing Plant Arrive Correctly and On Time
 
 ## Student details
-- Student Name: YOUR NAME
-- Register Number: YOUR REGISTER NUMBER
+- Student Name: s.sofiya
+- Register Number: 192521248
 - Department: Information Technology
 - OS: Windows 11
 - Python: Python 3.x
